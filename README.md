@@ -19,7 +19,7 @@ print(f'emails: {email_adresses}')
 ```
 **Output**:
 
-***emails: emails: ['admission@howard.edu', 'hugsadmission@howard.edu']***
+***emails: ['admission@howard.edu', 'hugsadmission@howard.edu']***
 
 ### Get phonenumbers from the homepage
 
